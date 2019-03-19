@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+    float: left;
+}
+main{
+    clear: both;
+    color:hotpink;
+    background-color:dimgrey;
+    font-family: 'Akronim', cursive;
+    font-size:25px;
+    font-style:bold;
+        
+    
+}
